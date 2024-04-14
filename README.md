@@ -7,6 +7,14 @@ This is not the whole project, but just some key component of the project. I kno
 If you want to try the game, you can go to this GDrive link : 
 https://drive.google.com/file/d/1OltA18FdHQxB4X9fqUXxTqjKyH2YDO6n/view?usp=sharing
 
+GAME CONTROL :
+WASD -> Move
+Hold left CTRL -> Begin Chanting State
+Up, Down, Left, Right arrow key -> When in chanting state, press the correct combination of spell
+Left Shift -> Blink
+
+You also have stamina that will be used to go in chanting state and blinking.
+
 Video Preview :
 https://drive.google.com/file/d/1JUApx-F-HAXh8ZDUorQluBxufIB_RZ94/view?usp=sharing
 
